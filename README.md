@@ -1,2 +1,3 @@
-# snca.pytorch
-code release for ECCV 2018 paper "improving generalization via scalable neighborhood component analysis"
+# Improving Generalization via Scalable Neighborhood Component Analysis
+
+This repository has been moved to https://github.com/Microsoft/snca.pytorch.
